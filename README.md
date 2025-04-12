@@ -1,2 +1,4 @@
-# kernel-hello-module
-Kernel module that prints hello world
+# Hello World Module 
+my first kernel modulue during 
+my understanding of kernel development and learning the C language. 
+
